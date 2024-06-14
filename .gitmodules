@@ -1,0 +1,3 @@
+[submodule "src/talk-template"]
+	path = src/talk-template
+	url = git@github.com:vahtras/talk-template
